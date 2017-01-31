@@ -1,5 +1,7 @@
 # tinyco
 
+![Codeship badge](https://codeship.com/projects/52aef0b0-c9ec-0134-0a14-7600976de1fc/status?branch=master)
+
 Simple coroutines using generators
 
 ---
