@@ -1,0 +1,35 @@
+{
+  "name": "tinyco",
+  "version": "1.0.0",
+  "description": "Simple coroutines using generators",
+  "author": "Kevin Ennis <kennis84@gmail.com",
+  "scripts": {
+    "test": "grunt"
+  },
+  "main": "lib/tinyco.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StarryInternet/tinyco"
+  },
+  "bugs": {
+    "url": "https://github.com/StarryInternet/tinyco/issues"
+  },
+  "keywords": [
+    "coroutines",
+    "generators"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 4.0.0"
+  },
+  "devDependencies": {
+    "eslint-config-starry": "2.0.0",
+    "eslint-plugin-starry": "2.0.0",
+    "grunt": "1.0.1",
+    "grunt-contrib-jshint": "1.0.0",
+    "grunt-eslint": "18.1.0",
+    "grunt-mocha-istanbul": "4.0.2",
+    "istanbul": "0.4.3",
+    "mocha": "2.5.3"
+  }
+}
