@@ -1,6 +1,6 @@
 {
   "name": "tinyco",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple coroutines using generators",
   "author": "Kevin Ennis <kennis84@gmail.com",
   "scripts": {
